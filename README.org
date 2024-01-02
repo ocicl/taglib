@@ -4,6 +4,6 @@ Pure Lisp implementation of reading M4A/MP3 tags
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/mv2devnul/taglib.git |
-| commit  | 807e815                                     |
+| commit  | 8611ef2                                     |
 | systems | taglib                                      |
 |---------+---------------------------------------------|
